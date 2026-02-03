@@ -6,3 +6,7 @@ always break down the project into smaller sprints where smaller parts can be wo
 and they are responsible for keeping their team on track with deliverables. The product owner on the other hand with set a direction for the team to go in and basically works with releases to the stakeholders and management.
 The big difference is that product owner works a lot with stakeholders, while scrum master works with sprints and meetings and JIRA work.
 
+3. The three types of meetings in a sprint schedule are, sprint planning meetings, daily scrum/standup meetings, and sprint retrospective meetings. In the sprint planning meeting this 
+will determine what needs to be completed by the end of the coming sprint, this meeting also determines the story points of tasks and assigns stories to the team. In the daily scrum/standup meeting it is a meeting everyday to discuss what team work is completed. The daily meeting can also be used to discuss any blockers on work as well
+as each members plan for the day. In the sprint retrospective meeting this will happen at the end of the sprint and will discuss the work that was completed and move any incomplete work back into the backlog. The retrospective meeting
+will also close out the sprint and any final concerns.
