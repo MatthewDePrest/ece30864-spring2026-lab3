@@ -1,3 +1,8 @@
 1. Some pro's of the agile method that it is a iterative approach allowing for a streamlined way to do work.
 It works to break the project down into multiple different parts and allows for constant interaction and collaboration with the customer. The cons of the agile method is that with agile it doesn't 
 always break down the project into smaller sprints where smaller parts can be worked on continously. This can mean that the timeline is harder to know since the scope of the project can be really big and doing big parts of it at once can be problematic.
+
+2. The scrum master is in charge of all the coding and work done by people on the project. They assign and deal out work in the sprints,
+and they are responsible for keeping their team on track with deliverables. The product owner on the other hand with set a direction for the team to go in and basically works with releases to the stakeholders and management.
+The big difference is that product owner works a lot with stakeholders, while scrum master works with sprints and meetings and JIRA work.
+
