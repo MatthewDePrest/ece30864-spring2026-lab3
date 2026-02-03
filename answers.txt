@@ -10,3 +10,6 @@ The big difference is that product owner works a lot with stakeholders, while sc
 will determine what needs to be completed by the end of the coming sprint, this meeting also determines the story points of tasks and assigns stories to the team. In the daily scrum/standup meeting it is a meeting everyday to discuss what team work is completed. The daily meeting can also be used to discuss any blockers on work as well
 as each members plan for the day. In the sprint retrospective meeting this will happen at the end of the sprint and will discuss the work that was completed and move any incomplete work back into the backlog. The retrospective meeting
 will also close out the sprint and any final concerns.
+
+4. An Epic in JIRA normally captures a big part of a project and is something that will be broken down into a bunch of smaller stories. A story is a software system need that must be completed and is usually
+shown in a short and concise way. A bug is normally the smallest piece of work but can be a problem with some code that needs to be fixed not necesarily new code just a look into written code. An issue in JIRA is basically any amount of work that can be tracked in the workflow.
